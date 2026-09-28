@@ -1,0 +1,9 @@
+Go to:
+
+python_ai folder
+
+Double-click 👉 setup_venv.bat
+
+Wait 2–4 minutes
+
+Done ✅

@@ -1,0 +1,10 @@
+0 Acne Vulgaris
+1 Eczema
+2 Psoriasis
+3 Fungal Infection
+4 Vitiligo
+5 Rosacea
+6 Hives
+7 Impetigo
+8 Seborrheic Dermatitis
+9 Clean Skin

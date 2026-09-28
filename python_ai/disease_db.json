@@ -1,0 +1,261 @@
+[
+  {
+    "label_index": 0,
+    "name": "Acne Vulgaris (Inflammatory Acne)",
+    "severity": "Mild to Moderate",
+    "description": "The skin shows multiple red, inflamed pimples scattered over the cheek area. These are mainly papules (red bumps) and a few pustules (pimples with white centers). This type of acne is commonly caused by excess oil (sebum) production, blocked pores, bacterial growth (Cutibacterium acnes), and hormonal changes (common in teenagers). There are no deep cysts or nodules, which indicates it is not severe acne.",
+    "treatment_options": [
+      "Cleanse face twice daily with a gentle acne cleanser",
+      "Apply benzoyl peroxide (2.5%) once daily to reduce bacteria",
+      "Use adapalene 0.1% gel at night to prevent new pimples",
+      "Use a non-comedogenic moisturizer to avoid dryness",
+      "Apply sunscreen (SPF 30+) every morning"
+    ],
+    "recommended_products": [
+      "Benzac AC 2.5% Gel",
+      "Minimalist 2% Salicylic Acid Cleanser",
+      "Differin (Adapalene 0.1%) Gel",
+      "Cetaphil / CeraVe Oil-Free Moisturizer",
+      "La Shield / Acne-safe Sunscreen"
+    ],
+    "home_remedies_supportive": [
+      "Ice compress (2–3 minutes) to reduce redness",
+      "Pure aloe vera gel to soothe inflammation",
+      "Green tea compress for mild antibacterial effect",
+      "Wash pillowcases regularly",
+      "Avoid touching or picking pimples"
+    ],
+    "warning": "Do NOT pop or squeeze pimples (can cause scars). Avoid harsh scrubs, toothpaste, or lemon on acne. If acne becomes painful, spreads rapidly, or leaves scars, consult a dermatologist. Results take 4–6 weeks — consistency is important."
+  },
+  {
+    "label_index": 1,
+    "name": "Eczema (Atopic Dermatitis)",
+    "severity": "Mild to Moderate",
+    "description": "The skin shows redness, inflammation, dryness, and irritation. The affected area appears sensitive and slightly swollen, which is characteristic of eczema, a chronic inflammatory skin condition. Eczema commonly occurs due to an overactive immune response, dry or sensitive skin barrier, allergies or irritants (soaps, detergents, dust), and environmental factors (weather changes, pollution). It is non-contagious and may flare up periodically.",
+    "treatment_options": [
+      "Regular use of moisturizers/emollients to restore the skin barrier",
+      "Mild topical corticosteroids during flare-ups (as prescribed)",
+      "Non-steroidal anti-inflammatory creams for long-term management",
+      "Gentle skin cleansing with soap-free cleansers",
+      "Identification and avoidance of triggers"
+    ],
+    "recommended_products": [
+      "Cetaphil Moisturizing Cream",
+      "CeraVe Moisturizing Cream",
+      "Physiogel AI Lotion",
+      "Aveeno Eczema Therapy",
+      "Sebamed Moisturizer (pH 5.5)"
+    ],
+    "home_remedies_supportive": [
+      "Apply thick moisturizers immediately after bathing",
+      "Use cold compresses to relieve itching",
+      "Take short, lukewarm showers",
+      "Wear soft cotton clothing",
+      "Maintain proper hydration"
+    ],
+    "warning": "Avoid scratching, as it can cause skin infections. Do not use strong steroid creams without medical guidance. Long-term neglect may lead to skin thickening or infection. If symptoms worsen, spread rapidly, or show signs of infection, seek medical advice."
+  },
+  {
+    "label_index": 2,
+    "name": "Psoriasis",
+    "severity": "Moderate",
+    "description": "The skin shows thickened skin with whitish patches and scaling, which is characteristic of psoriasis, a chronic autoimmune skin condition. Psoriasis occurs when skin cells multiply too quickly, leading to thick, scaly plaques, red or inflamed underlying skin, and dryness and surface changes. It is not contagious and often follows a relapsing–remitting pattern, meaning symptoms may improve and flare repeatedly.",
+    "treatment_options": [
+      "Topical corticosteroids to reduce inflammation",
+      "Vitamin D analog creams to slow skin cell growth",
+      "Keratolytic agents (salicylic acid) to reduce scaling",
+      "Phototherapy (UV light) in persistent cases",
+      "Systemic or biologic therapies for severe disease (doctor-prescribed)"
+    ],
+    "recommended_products": [
+      "Coal Tar–based formulations",
+      "Salicylic Acid preparations (low strength)",
+      "Moisturizing creams (thick emollients)",
+      "Calcipotriol-based creams",
+      "CeraVe / Cetaphil Moisturizing Cream"
+    ],
+    "home_remedies_supportive": [
+      "Apply thick moisturizers regularly",
+      "Take short, lukewarm baths",
+      "Use mild, fragrance-free cleansers",
+      "Manage stress (stress can trigger flare-ups)",
+      "Avoid smoking and excessive alcohol"
+    ],
+    "warning": "Avoid picking or peeling scales. Do not overuse steroid creams without supervision. Untreated psoriasis may worsen or affect joints (psoriatic arthritis). Seek medical care if lesions spread rapidly, become painful, or crack and bleed."
+  },
+  {
+    "label_index": 3,
+    "name": "Fungal Skin Infection (Tinea / Ringworm)",
+    "severity": "Mild to Moderate",
+    "description": "The rash appears as a round or oval patch with a reddish, raised border and relatively clearer center, which is typical of a fungal skin infection. Fungal infections are caused by dermatophyte fungi that grow on the outer layer of skin. They commonly spread through direct skin-to-skin contact, shared towels/clothes/bedding, and sweating in humid environments. This condition is contagious but usually treatable.",
+    "treatment_options": [
+      "Topical antifungal creams applied 1–2 times daily",
+      "Keep the affected area clean and dry",
+      "Continue treatment for 1–2 weeks after symptoms improve",
+      "In extensive or recurrent cases, oral antifungal medicines may be prescribed by a doctor"
+    ],
+    "recommended_products": [
+      "Clotrimazole 1% Cream",
+      "Ketoconazole Cream",
+      "Terbinafine Cream",
+      "Antifungal dusting powder (for moisture control)"
+    ],
+    "home_remedies_supportive": [
+      "Wash area daily and dry thoroughly",
+      "Wear loose, breathable cotton clothing",
+      "Change sweaty clothes immediately",
+      "Use a clean towel separately"
+    ],
+    "warning": "Do NOT use steroid creams alone (can worsen infection). Avoid scratching to prevent spread. Infection may spread to others if untreated. Consult a doctor if there is no improvement in 1–2 weeks or if infection spreads rapidly."
+  },
+  {
+    "label_index": 4,
+    "name": "Vitiligo",
+    "severity": "Moderate",
+    "description": "The skin shows well-defined light/white patches, which is characteristic of vitiligo, a chronic pigmentary disorder. Vitiligo occurs when melanocytes (pigment-producing cells) are destroyed or stop functioning, leading to loss of skin color. The condition is non-contagious, the skin texture stays normal (no scaling or redness), and it may progress slowly or remain stable over time.",
+    "treatment_options": [
+      "Topical corticosteroids to reduce immune activity",
+      "Topical calcineurin inhibitors for long-term control",
+      "Phototherapy (UVB light) to stimulate repigmentation",
+      "Depigmentation therapy in extensive cases (doctor-guided)",
+      "Psychological support for emotional well-being"
+    ],
+    "recommended_products": [
+      "Broad-spectrum sunscreen (SPF 30–50+)",
+      "Moisturizing creams for skin protection",
+      "Tacrolimus / Pimecrolimus creams (prescription only)",
+      "Camouflage cosmetics to even skin tone"
+    ],
+    "home_remedies_supportive": [
+      "Use sunscreen daily to prevent contrast darkening",
+      "Keep skin well-moisturized",
+      "Avoid skin trauma (cuts, burns, friction)",
+      "Maintain a balanced diet and manage stress"
+    ],
+    "warning": "No guaranteed permanent cure exists. Avoid unproven “miracle” treatments. Sunburn risk is higher on depigmented skin. Consult a dermatologist if patches spread rapidly or affect daily life."
+  },
+  {
+    "label_index": 5,
+    "name": "Rosacea",
+    "severity": "Mild to Moderate",
+    "description": "The skin shows persistent redness with inflamed bumps and visible irritation, which is characteristic of rosacea, a chronic inflammatory skin condition. Rosacea commonly involves facial flushing and redness, small red bumps that may resemble acne, and sensitive, easily irritated skin. Unlike acne, rosacea usually does not involve blackheads and often flares in response to specific triggers.",
+    "treatment_options": [
+      "Topical anti-inflammatory medications (e.g., metronidazole, azelaic acid)",
+      "Oral antibiotics for inflammatory flares (doctor-prescribed)",
+      "Laser or light therapy for persistent redness",
+      "Gentle skincare routine with trigger avoidance"
+    ],
+    "recommended_products": [
+      "Azelaic Acid Cream/Gel",
+      "Metronidazole Gel",
+      "Gentle, soap-free cleanser (Cetaphil / CeraVe)",
+      "Broad-spectrum sunscreen (SPF 30+)",
+      "Moisturizers for sensitive skin"
+    ],
+    "home_remedies_supportive": [
+      "Identify and avoid triggers (spicy food, heat, sun, alcohol)",
+      "Use lukewarm water for face washing",
+      "Apply cold compresses during flare-ups",
+      "Maintain a simple, fragrance-free skincare routine"
+    ],
+    "warning": "Avoid harsh scrubs, exfoliants, or alcohol-based products. Do not self-treat long-term with steroid creams. Untreated rosacea may worsen over time and cause persistent redness. Consult a dermatologist if symptoms become painful, spread rapidly, or affect quality of life."
+  },
+  {
+    "label_index": 6,
+    "name": "Urticaria (Hives)",
+    "severity": "Mild to Moderate",
+    "description": "The skin shows irregular, raised, reddish patches (wheals) that vary in shape and size, typical of urticaria (hives). Hives occur due to release of histamine in the skin, leading to sudden swelling, red or pink patches with clear borders, and intense itching or burning sensation. Urticaria is usually temporary and can appear and disappear within hours.",
+    "treatment_options": [
+      "Oral antihistamines to reduce itching and swelling",
+      "Avoid known allergic triggers",
+      "Short course of anti-inflammatory medication in severe cases (doctor-prescribed)",
+      "Cool environments to reduce flare-ups"
+    ],
+    "recommended_products": [
+      "Non-drowsy antihistamines (e.g., cetirizine, loratadine)",
+      "Calamine lotion for soothing relief",
+      "Fragrance-free moisturizers",
+      "Cooling gels (aloe-based)"
+    ],
+    "home_remedies_supportive": [
+      "Apply cold compresses to affected areas",
+      "Wear loose, breathable clothing",
+      "Avoid hot showers during flare-ups",
+      "Stay hydrated"
+    ],
+    "warning": "Avoid scratching, which can worsen swelling. Do not ignore recurrent or persistent hives. Seek emergency care immediately if hives occur with difficulty breathing, swelling of lips/tongue/throat, dizziness, or fainting. Chronic hives (>6 weeks) require medical evaluation."
+  },
+  {
+    "label_index": 7,
+    "name": "Impetigo",
+    "severity": "Mild to Moderate",
+    "description": "The skin shows red sores with crusting and inflammation, characteristic of impetigo, a common bacterial skin infection. It is usually caused by Staphylococcus or Streptococcus bacteria and is common in children. Key features include red sores that may ooze fluid, formation of yellowish or honey-colored crusts, and easy spread through scratching or close contact. The condition is highly contagious but treatable.",
+    "treatment_options": [
+      "Topical antibiotic ointments for localized infection",
+      "Oral antibiotics for widespread or severe cases (doctor-prescribed)",
+      "Gentle cleansing of the affected area",
+      "Keep nails short to reduce spread"
+    ],
+    "recommended_products": [
+      "Mupirocin Ointment",
+      "Fusidic Acid Cream",
+      "Mild antiseptic cleansers",
+      "Non-irritating moisturizers for surrounding skin"
+    ],
+    "home_remedies_supportive": [
+      "Clean affected area gently with lukewarm water",
+      "Keep skin dry and covered",
+      "Use separate towels and bedding",
+      "Wash hands frequently"
+    ],
+    "warning": "Do NOT pick or scratch crusts. Avoid sharing towels, clothes, or toys. Infection can spread quickly if untreated. Seek medical care if fever develops or lesions spread rapidly."
+  },
+  {
+    "label_index": 8,
+    "name": "Seborrheic Dermatitis",
+    "severity": "Mild to Moderate",
+    "description": "The skin shows redness with mild inflammation and irritation, typical of seborrheic dermatitis, a chronic inflammatory skin condition. It is associated with overgrowth of Malassezia yeast, increased oil production, and skin sensitivity. It often presents with redness, itching, and flaky or greasy scales and may flare periodically.",
+    "treatment_options": [
+      "Antifungal creams or shampoos to reduce yeast overgrowth",
+      "Mild topical corticosteroids for short-term flare control",
+      "Anti-inflammatory creams as prescribed",
+      "Regular gentle cleansing to control oil buildup"
+    ],
+    "recommended_products": [
+      "Ketoconazole Cream or Shampoo",
+      "Selenium Sulfide formulations",
+      "Zinc Pyrithione–based products",
+      "Gentle moisturizers for sensitive skin"
+    ],
+    "home_remedies_supportive": [
+      "Wash affected areas regularly with lukewarm water",
+      "Avoid harsh soaps and alcohol-based products",
+      "Manage stress (stress can worsen flares)",
+      "Maintain good skin hygiene"
+    ],
+    "warning": "Avoid aggressive scrubbing or frequent washing. Do not use strong steroid creams long-term without supervision. Condition may recur. Consult a dermatologist if symptoms worsen, spread, or fail to improve."
+  },
+  {
+    "label_index": 9,
+    "name": "Normal / Healthy Skin",
+    "severity": "None (Normal)",
+    "description": "The image shows clear, even-toned skin with no visible inflammation, lesions, redness, scaling, or discoloration. Skin texture appears smooth and balanced, indicating a healthy skin barrier, normal oil and moisture levels, and no signs of infection or chronic skin disease.",
+    "treatment_options": [
+      "No medical treatment required",
+      "Maintain a basic skincare routine to preserve skin health"
+    ],
+    "recommended_products": [
+      "Gentle cleanser (soap-free)",
+      "Lightweight moisturizer",
+      "Broad-spectrum sunscreen (SPF 30+)",
+      "Hydrating face wash suitable for daily use"
+    ],
+    "home_remedies_supportive": [
+      "Wash face twice daily with lukewarm water",
+      "Maintain proper hydration",
+      "Eat a balanced diet",
+      "Get adequate sleep"
+    ],
+    "warning": "Avoid excessive use of harsh products. Do not over-wash the skin. New symptoms like redness, itching, or lesions should be monitored. Seek medical advice if sudden skin changes occur."
+  }
+]
