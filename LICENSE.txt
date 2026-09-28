@@ -1,0 +1,18 @@
+DermaVision AI
+Copyright © 2025
+Created by: Hetansh Patel
+
+This software is provided strictly for:
+• Academic evaluation
+• Demonstration purposes
+• Viewing and review only
+
+❌ Copying, redistribution, modification, resale, or claiming ownership
+❌ Removing the author's name
+❌ Using this project in competitions or submissions under another name
+
+is STRICTLY PROHIBITED without written permission.
+
+This project is NOT open source.
+
+All rights reserved.
